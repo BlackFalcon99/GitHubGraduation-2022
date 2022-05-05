@@ -1,6 +1,6 @@
 ---
 name: Om Agarwal
-institution: delhi public school
+institution: Delhi Public School
 quote: What we think, we become.
 github_user: BlackFalcon99
 ---
